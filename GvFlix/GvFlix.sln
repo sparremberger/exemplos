@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GvFlix.Api", "GvFlix.Api\GvFlix.Api.csproj", "{CA8E6380-896E-499E-8F76-CAA5D0856EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA8E6380-896E-499E-8F76-CAA5D0856EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA8E6380-896E-499E-8F76-CAA5D0856EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA8E6380-896E-499E-8F76-CAA5D0856EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA8E6380-896E-499E-8F76-CAA5D0856EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B2CE17-C919-44B8-BE16-16940EF8589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B2CE17-C919-44B8-BE16-16940EF8589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B2CE17-C919-44B8-BE16-16940EF8589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B2CE17-C919-44B8-BE16-16940EF8589A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C92AB188-F29C-4512-B120-57D8C4977DE9}
+	EndGlobalSection
+EndGlobal
