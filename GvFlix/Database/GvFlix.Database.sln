@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "GvFlix.Database", "GvFlix.Database\GvFlix.Database.sqlproj", "{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C95217-A84D-4D2D-A5DC-A6EF6AAF431A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E8BFA50-A5FC-4681-865B-75D7738C06FA}
+	EndGlobalSection
+EndGlobal
